@@ -250,13 +250,13 @@ animation: animate 5s infinite;
   display: flex;
 }
 
-.pr1_1: hover{
+.pr1_1{
   /* border: 0.25px solid black; */
   width: 50%;
   margin: 12px 4px 4px 4px;
-  z-index: 1;
+  /* z-index: 1;
   transform: scale(1.25);
-  box-shadow: 0 25px 40px rgba(0,0,0,.5);
+  box-shadow: 0 25px 40px rgba(0,0,0,.5); */
 }
   
 
