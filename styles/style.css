@@ -248,6 +248,11 @@ animation: animate 5s infinite;
   height: 44%;
   /* border: 0.25px solid red; */
   display: flex;
+  
+}
+
+.pr1 h2 {
+  top: 50%
 }
 
 .pr1_1{
