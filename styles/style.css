@@ -256,13 +256,15 @@ animation: animate 5s infinite;
 
 
 /* .pr1 h2 {
-  top: 50%
+  top: 10%;
 } */
 
 .pr1_1{
   /* border: 0.25px solid black; */
   width: 50%;
   margin: 12px 4px 4px 4px;
+  position: relative;
+  /* position: relative; */
   /* z-index: 1;
   transform: scale(1.25);
   box-shadow: 0 25px 40px rgba(0,0,0,.5); */
@@ -270,6 +272,11 @@ animation: animate 5s infinite;
 
 .pr1_1:hover img{
   filter: blur(2px) brightness(60%);
+  box-shadow:0 0 16px cyan;
+}
+
+.pr1_1:not(img){
+ 
 }
   
 
