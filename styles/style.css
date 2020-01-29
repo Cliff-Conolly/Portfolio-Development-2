@@ -310,8 +310,8 @@ animation: animate 5s infinite;
   text-align: center;
   color: #feda4a;
   font-style: italic;
-  /* opacity:0;
-  transition: .2s; */
+  opacity:0;
+  transition: .2s;
 }
 
 
