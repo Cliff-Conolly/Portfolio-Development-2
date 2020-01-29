@@ -304,8 +304,8 @@ animation: animate 5s infinite;
 #SI {
   position: absolute;
   z-index: 1;
-  /* top: -20%;
-  width: 100%;
+  top: -20%;
+  /* width: 100%;
   height: 80%;
   text-align: center;
   color: #feda4a;
