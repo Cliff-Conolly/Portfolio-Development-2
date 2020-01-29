@@ -264,7 +264,7 @@ animation: animate 5s infinite;
 
 .pr1_1:hover img{
   filter: blur(2px) brightness(90%);
-  box-shadow:0 0 16px #ced8e7;;
+  box-shadow:0 0 16px #ced8e7;
 }
 
 #SI {
@@ -299,6 +299,11 @@ animation: animate 5s infinite;
   margin: 12px 4px 4px 4px;
   position: relative;
   transition: .2s;
+}
+
+.pr1_2:hover img{
+  filter: blur(2px) brightness(90%);
+  /* box-shadow:0 0 16px #ced8e7; */
 }
 
 #JD {
