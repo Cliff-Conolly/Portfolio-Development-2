@@ -298,7 +298,7 @@ animation: animate 5s infinite;
   width: 50%;
   margin: 12px 4px 4px 4px;
   position: relative;
-  /* transition: .2s; */
+  transition: .2s;
 }
 
 
