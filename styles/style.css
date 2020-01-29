@@ -303,7 +303,7 @@ animation: animate 5s infinite;
 
 .pr1_2:hover img{
   filter: blur(2px) brightness(90%);
-  /* box-shadow:0 0 16px #ced8e7; */
+  box-shadow:0 0 16px #ced8e7;
 }
 
 #JD {
