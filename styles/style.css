@@ -301,12 +301,12 @@ animation: animate 5s infinite;
   transition: .2s;
 }
 
-#SI {
+#JD {
   position: absolute;
   z-index: 1;
   top: -20%;
-  /* width: 100%;
-  height: 80%;
+  width: 100%;
+  /* height: 80%;
   text-align: center;
   color: #feda4a;
   font-style: italic;
