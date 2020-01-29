@@ -367,7 +367,32 @@ animation: animate 5s infinite;
   /* border: 0.25px solid black; */
   width: 50%;
   margin: 12px 4px 4px 4px;
+  position: relative;
+  transition: .2s;
 }
+
+.pr2_2:hover img{
+  filter: blur(2px) brightness(90%);
+  box-shadow:0 0 16px #ced8e7;
+}
+
+#TOR {
+  position: absolute;
+  z-index: 1;
+  top: -20%;
+  width: 100%;
+  height: 80%;
+  text-align: center;
+  color: #feda4a;
+  font-style: italic;
+  opacity:0;
+  transition: .2s;
+}
+
+#TOR:hover{
+  opacity: 1;
+}
+
 
 
 
