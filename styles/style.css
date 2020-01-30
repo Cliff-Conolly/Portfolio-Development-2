@@ -418,8 +418,9 @@ animation: animate 5s infinite;
   font-style: italic;
   opacity:0;
   transition: .2s;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-shadow: -1px 0 #FF073A, 0 1px #FF073A, 1px 0 #FF073A, 0 -1px #FF073A;
   font-size: x-large;
+  
 }
 
 #TOR:hover{
