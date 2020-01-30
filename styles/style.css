@@ -30,7 +30,7 @@ body {
                0 20px 20px rgba(0,0,0,.15);
 }
 
-.title{
+.title {
   text-align: center;
   display: block;
   /* padding: 10px; */
@@ -38,8 +38,6 @@ body {
   font-size: 30px;
   color: white;
   font-family: 'Orbitron', sans-serif;
-  
-
 }
 
 
@@ -51,8 +49,7 @@ body {
   margin: 0;
   padding: 0;
   color: red;
-  cursor: pointer;
-  
+  cursor: pointer; 
 }
 
 .box span {
@@ -138,8 +135,6 @@ animation: animate 5s infinite;
   width: 850px;
   margin: auto;
   perspective: 100px;
-  
-
 }
 
 .scrawl {
@@ -154,27 +149,12 @@ animation: animate 5s infinite;
   box-shadow: 0px 0px 10px 10px #CCCCCC;
 }
 
-/* .scrawl2{
-  transform-style: preserve-3d;
-  transform: rotateX(8deg);
-  width: 800px;
-  border: 1px solid white;
-  background: black;
-  opacity: 0.80;
-  align-content: center;
-  box-shadow: 0px 0px 5px 5px #ccc;
-  
-} */
-
 .container1 {
   width: 798px;
   height: 150px;
   border: 0.25px solid red;
   border-radius: 20px 20px 0px 0px;
-  display: flex;
-  
-
- 
+  display: flex; 
 }
 
 #profile {
@@ -182,7 +162,6 @@ animation: animate 5s infinite;
   width: 30pc;
   margin: 10px;
   border-radius: 20px;
-
 }
 
 .pro_pic {
@@ -199,8 +178,6 @@ animation: animate 5s infinite;
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
-  /* padding: 10px; */
-
 }
 
 
@@ -208,7 +185,6 @@ animation: animate 5s infinite;
   width: 800px;
   height: 150px;
   border: 0.25px solid #ced8e7;
-  /* display: flex; */
 }
 
 .logo1 {
@@ -220,7 +196,7 @@ animation: animate 5s infinite;
   margin: 2px;
 }
 
-.logo2{
+.logo2 {
   width : 796px;
   height: 74px;
   border: o.25px solid red;
@@ -230,28 +206,11 @@ animation: animate 5s infinite;
 }
 
 
-
-
-
-
-
-
-/* .logo_boxes {
-  display: flex;
-  width: 700px;
-  height: 100px;
-  border: 0.25px solid red;
-  display: inline-block;
-} */
-
 #logo-box {
   /* border: 0.25px solid red; */
   width: 70px;
   height: 70px;
-  
 }
-
-
 
 .container3 {
   width: 798px;
@@ -259,7 +218,6 @@ animation: animate 5s infinite;
   border: 0.25px solid;
   border-radius: 0px 0px 20px 20px;
   display: flex;
-  
 }
 
 .projects {
@@ -267,7 +225,6 @@ animation: animate 5s infinite;
   border-right: 0.25px solid #ced8e7;
   width: 60%;
   text-align: center;
-  
 }
 
 /* Containers (pr1) for Space Invaders and JavaDrip projects */
@@ -276,7 +233,6 @@ animation: animate 5s infinite;
   height: 44%;
   /* border: 0.25px solid red; */
   display: flex;
-  
 }
 
 .pr1_1{
@@ -285,7 +241,6 @@ animation: animate 5s infinite;
   margin: 12px 4px 4px 4px;
   position: relative;
   transition: .2s;
-
 }
 
 .pr1_1:hover img{
@@ -308,12 +263,12 @@ animation: animate 5s infinite;
   font-size: x-large;
 }
 
-#SI:hover{
+#SI:hover {
   opacity: 1;
 }
   
 
-#pro_gif{
+#pro_gif {
     width: 100%;
     height: 100%;
     border-radius: 5%;
@@ -321,7 +276,7 @@ animation: animate 5s infinite;
   }
 
 
-.pr1_2{
+.pr1_2 {
   /* border: 0.25px solid black; */
   width: 48%;
   margin: 12px 4px 4px 4px;
@@ -329,7 +284,7 @@ animation: animate 5s infinite;
   transition: .2s;
 }
 
-.pr1_2:hover img{
+.pr1_2:hover img {
   filter: blur(2px) brightness(90%);
   box-shadow:0 0 16px #ced8e7;
 }
@@ -352,8 +307,6 @@ animation: animate 5s infinite;
 #JD:hover{
   opacity: 1;
 }
-
-
 
 /* Containers (pr2) for Walkabout and Tor projects */
 .pr2 {
@@ -390,12 +343,11 @@ animation: animate 5s infinite;
   font-size: x-large;
 }
 
-#WA:hover{
+#WA:hover {
   opacity: 1;
 }
 
-
-.pr2_2{
+.pr2_2 {
   /* border: 0.25px solid black; */
   width: 48%;
   margin: 12px 4px 4px 4px;
@@ -403,7 +355,7 @@ animation: animate 5s infinite;
   transition: .2s;
 }
 
-.pr2_2:hover img{
+.pr2_2:hover img {
   filter: blur(2px) brightness(90%);
   box-shadow:0 0 16px #ced8e7;
 }
@@ -421,15 +373,11 @@ animation: animate 5s infinite;
   transition: .2s;
   text-shadow: -1px 0 #FF073A, 0 1px #FF073A, 1px 0 #FF073A, 0 -1px #FF073A;
   font-size: x-large;
-  
 }
 
-#TOR:hover{
+#TOR:hover {
   opacity: 1;
 }
-
-
-
 
 /*Container for About Me ie. extracurricular activities */
 .about_me {
@@ -449,8 +397,6 @@ animation: animate 5s infinite;
   height: 100%;
   border-radius: 5%;
   border: 2px solid #feda4a;
-  
-  /* height: 100%; */
 }
 
 .ab_2 {
@@ -459,32 +405,20 @@ animation: animate 5s infinite;
   margin: 14.5px 4px 4px 4px;
 }
 
-
-
-
-
-
-
 footer {
  position: absolute;
  bottom: 0;
  width: 100%;
-
 }
 
 
 ul {
-  /* position: absolute;
-  top: 90%; */
-  /* left: 50%;
-  transform: translate(-50%, -50%); */
   margin: 0;
   padding: 0;
   display: flex;
   flex-flow: wrap;
   width: 100vw;
   justify-content: center;
-
 }
 
 ul li {
