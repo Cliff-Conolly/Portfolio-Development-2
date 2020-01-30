@@ -147,7 +147,7 @@ animation: animate 5s infinite;
   transform: rotateX(2.75deg);
   width: 800px;
   border: 0.50px solid #ced8e7;
-  border-radius: 20px 20px 20px 20px;
+  border-radius: 10px 10px 10px 10px;
   background: #96959a;
   opacity: 0.80;
   align-content: center;
