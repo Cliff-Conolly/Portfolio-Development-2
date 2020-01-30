@@ -281,7 +281,7 @@ animation: animate 5s infinite;
 
 .pr1_1{
   /* border: 0.25px solid black; */
-  width: 50%;
+  width: 48%;
   margin: 12px 4px 4px 4px;
   position: relative;
   transition: .2s;
@@ -323,7 +323,7 @@ animation: animate 5s infinite;
 
 .pr1_2{
   /* border: 0.25px solid black; */
-  width: 50%;
+  width: 48%;
   margin: 12px 4px 4px 4px;
   position: relative;
   transition: .2s;
@@ -364,7 +364,7 @@ animation: animate 5s infinite;
 
 .pr2_1{
   /* border: 0.25px solid black; */
-  width: 50%;
+  width: 48%;
   margin: 12px 4px 4px 4px;
   position: relative;
   transition: .2s;
@@ -397,7 +397,7 @@ animation: animate 5s infinite;
 
 .pr2_2{
   /* border: 0.25px solid black; */
-  width: 50%;
+  width: 48%;
   margin: 12px 4px 4px 4px;
   position: relative;
   transition: .2s;
