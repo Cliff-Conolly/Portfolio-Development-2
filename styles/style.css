@@ -445,6 +445,7 @@ animation: animate 5s infinite;
 
 #ab_vid {
   width: 100%;
+  height: 100%;
   
   /* height: 100%; */
 }
