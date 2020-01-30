@@ -438,7 +438,7 @@ animation: animate 5s infinite;
 }
 
 .ab_1 {
-  border: 0.25px solid black;
+  /* border: 0.25px solid black; */
   height: 81.5%;
   margin: 12px 4px 4px 4px;
 }
