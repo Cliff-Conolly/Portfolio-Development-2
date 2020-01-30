@@ -296,9 +296,9 @@ animation: animate 5s infinite;
 #SI {
   position: absolute;
   z-index: 1;
-  top: -20%;
+  top: -45%;
   width: 100%;
-  height: 80%;
+  height: 83%;
   text-align: center;
   color: #feda4a;
   font-style: italic;
@@ -336,9 +336,9 @@ animation: animate 5s infinite;
 #JD {
   position: absolute;
   z-index: 1;
-  top: -20%;
+  top: -45%;
   width: 100%;
-  height: 80%;
+  height: 83%;
   text-align: center;
   color: #feda4a;
   font-style: italic;
