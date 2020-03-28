@@ -603,6 +603,11 @@ ul li:hover:nth-child(4) a:after {
      
     } 
 
+    script {
+
+      
+    }
+
     .scrawl {
       transform-style: preserve-3d;
       transform: rotateX(1.75deg);
@@ -622,6 +627,11 @@ ul li:hover:nth-child(4) a:after {
       border-radius: 20px 20px 0px 0px;
       display: flex;
     }
+
+    #profile_blurb {
+      display: none;
+    }
+    
   } 
  
 
