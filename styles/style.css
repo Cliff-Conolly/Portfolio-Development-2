@@ -605,7 +605,7 @@ ul li:hover:nth-child(4) a:after {
 
     .scrawl {
       transform-style: preserve-3d;
-      transform: rotateX(2.75deg);
+      transform: rotateX(1.75deg);
       width: 330px;
       border: 0.50px solid #ced8e7;
       border-radius: 10px 10px 10px 10px;
