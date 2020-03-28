@@ -9,6 +9,13 @@ body {
   padding: 0;
 }
 
+.img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  width: auto;
+}
+
 .name {
   text-align: center;
   display: block;
@@ -567,21 +574,34 @@ ul li:hover:nth-child(4) a:after {
     display: block;  
   }
 
-    }
-
-
-  /* iPhone X */
-  @media screen and (max-width: 375px) {
-    body {
-      background-size: 400px;
-      height: 815px;
-    }
-
-    .scrawl {
-    width: 500px;
-    }
+  
   }
 
+  
+
+    
+
+
+  /* iPhone X
+  @media screen and (max-width: 375px) {
+    /* body {
+      position: absolute;
+     
+    } */
+
+    /* .scrawl {
+      transform-style: preserve-3d;
+      transform: rotateX(2.75deg);
+      width: 800px;
+      border: 0.50px solid #ced8e7;
+      border-radius: 10px 10px 10px 10px;
+      background: red;
+      opacity: 0.80;
+      align-content: center;
+      box-shadow: 0px 0px 10px 10px #CCCCCC;
+    }
+  }
+ */
 
 
 
@@ -595,7 +615,7 @@ ul li:hover:nth-child(4) a:after {
 
 
 
-
+ */
 
 
 
