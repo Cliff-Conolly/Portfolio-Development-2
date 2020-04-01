@@ -635,14 +635,12 @@ ul li:hover:nth-child(4) a:after {
       width: 321px;
       height: 150px;
       overflow: hidden;
-      position: relative;
-    
-        
+      position: relative;   
     }
     
-    .container2 .logo1 {
+    .container2 .logo2 {
     position: absolute;
-    width: 100%;
+    width: 190%;
     height: 100%;
     margin: 0;
     line-height: 50px;
@@ -677,6 +675,9 @@ ul li:hover:nth-child(4) a:after {
     transform: translateX(-100%); 
     }
   }
+
+  
+  
 
 
     
