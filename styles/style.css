@@ -195,6 +195,12 @@ animation: animate 5s infinite;
   border: 0.25px solid #ced8e7;
 }
 
+.container3 {
+  width: 800px;
+  height: 150px;
+  border: 0.25px solid #ced8e7;
+}
+
 .logo1 {
   width : 796px;
   height: 74px;
