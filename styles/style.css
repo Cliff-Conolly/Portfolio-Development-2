@@ -644,7 +644,7 @@ ul li:hover:nth-child(4) a:after {
       position: relative;   
     }
     
-    .container2 .logo2 {
+    .container2 .logo2{
     position: absolute;
     width: 190%;
     height: 100%;
@@ -656,9 +656,9 @@ ul li:hover:nth-child(4) a:after {
     -webkit-transform:translateX(100%);	
     transform:translateX(100%);
     /* Apply animation to this element */	
-    -moz-animation: scroll-left 15s linear infinite;
-    -webkit-animation: scroll-left 15s linear infinite;
-    animation: scroll-left 15s linear infinite;
+    -moz-animation: scroll-left 13s linear infinite;
+    -webkit-animation: scroll-left 13s linear infinite;
+    animation: scroll-left 13s linear infinite;
     }
     /* Move it (define the animation) */
     @-moz-keyframes scroll-left {
