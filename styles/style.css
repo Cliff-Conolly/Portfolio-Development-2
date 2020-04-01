@@ -214,7 +214,13 @@ animation: animate 5s infinite;
 }
 
 
-#logo-box {
+#logo-box1 {
+  /* border: 0.25px solid red; */
+  width: 70px;
+  height: 70px;
+}
+
+#logo-box2 { 
   /* border: 0.25px solid red; */
   width: 70px;
   height: 70px;
