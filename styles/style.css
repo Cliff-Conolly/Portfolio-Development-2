@@ -616,7 +616,7 @@ ul li:hover:nth-child(4) a:after {
       
     }
     .container1 {
-      width: 798px;
+      width: 321px;
       
     }
 
@@ -631,9 +631,16 @@ ul li:hover:nth-child(4) a:after {
 
     /* scroll right to left for logo1 and logo2  */
 
+    .container2{
+      width: 321px;
+      height: 150px;
+      overflow: hidden;
+      position: relative;
     
+        
+    }
     
-    .logo1{
+    .container2 .logo1 {
     position: absolute;
     width: 100%;
     height: 100%;
