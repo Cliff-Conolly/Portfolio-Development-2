@@ -191,14 +191,18 @@ animation: animate 5s infinite;
 
 .container2 {
   width: 800px;
-  height: 150px;
-  border: 0.25px solid #ced8e7;
+  height: 74px;
+  border-top: 0.25px solid #ced8e7;
+  border-left: 0.25px solid #ced8e7;
+  border-right: 0.25px solid #ced8e7;
 }
 
 .container3 {
   width: 800px;
-  height: 150px;
-  border: 0.25px solid #ced8e7;
+  height: 74px;
+  border-bottom: 0.25px solid #ced8e7;
+  border-left: 0.25px solid #ced8e7;
+  border-right: 0.25px solid #ced8e7;
 }
 
 .logo1 {
@@ -659,7 +663,7 @@ ul li:hover:nth-child(4) a:after {
     
     .container2 .logo1{
     position: absolute;
-    width: 300%;
+    width: 275%;
     height: 100%;
     margin: 0;
     line-height: 50px;
@@ -707,9 +711,9 @@ ul li:hover:nth-child(4) a:after {
     -webkit-transform:translateX(100%);	
     transform:translateX(100%);
     /* Apply animation to this element */	
-    -moz-animation: scroll-left 15s linear infinite;
-    -webkit-animation: scroll-left 15s linear infinite;
-    animation: scroll-left 15s linear infinite;
+    -moz-animation: scroll-left 17.85s linear infinite;
+    -webkit-animation: scroll-left 17.85s linear infinite;
+    animation: scroll-left 17.85s linear infinite;
     }
     /* Move it (define the animation) */
     @-moz-keyframes scroll-left {
@@ -732,10 +736,6 @@ ul li:hover:nth-child(4) a:after {
     transform: translateX(-100%); 
     }  
   }
-
-
-  
-  
 
 
     
