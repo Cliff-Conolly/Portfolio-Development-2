@@ -195,12 +195,6 @@ animation: animate 5s infinite;
   border: 0.25px solid #ced8e7;
 }
 
-.container3 {
-  width: 800px;
-  height: 150px;
-  border: 0.25px solid #ced8e7;
-}
-
 .logo1 {
   width : 796px;
   height: 74px;
@@ -232,7 +226,7 @@ animation: animate 5s infinite;
   height: 70px;
 }
 
-.container4 {
+.container3 {
   width: 798px;
   height: 250px;
   border: 0.25px solid;
@@ -650,9 +644,9 @@ ul li:hover:nth-child(4) a:after {
       position: relative;   
     }
     
-    .container2 .logo2{
+    .container2 .logo1{
     position: absolute;
-    width: 190%;
+    width: 300%;
     height: 100%;
     margin: 0;
     line-height: 50px;
