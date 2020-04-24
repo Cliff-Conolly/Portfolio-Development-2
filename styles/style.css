@@ -619,11 +619,7 @@ ul li:hover:nth-child(4) a:after {
      
     } 
 
-    script {
-
-      
-    }
-
+   
     .scrawl {
       transform-style: preserve-3d;
       transform: rotateX(1.75deg);
@@ -648,7 +644,7 @@ ul li:hover:nth-child(4) a:after {
     /* scroll right to left for logo1 and logo2  */
 
     .container2{
-      width: 321px;
+      width: 1120px;
       height: 74px;
       overflow: hidden;
       position: relative;   
@@ -661,14 +657,17 @@ ul li:hover:nth-child(4) a:after {
       position: relative;  
        
     }
+
     
-    .container2 .logo1{
+    
+    .container2 .logo1 {
     position: absolute;
     width: 280%;
     height: 100%;
     margin: 0;
     line-height: 50px;
     text-align: center;
+    
     /* Starting position */
     -moz-transform:translateX(100%);
     -webkit-transform:translateX(100%);	
@@ -699,10 +698,7 @@ ul li:hover:nth-child(4) a:after {
     transform: translateX(-100%); 
     }  
 
-    @keyframes container 2 {
-      0% { left: 0;}
-      100% { left: -200%;}
-    }
+    
   }
 
   .container3 .logo2{
