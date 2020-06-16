@@ -239,7 +239,7 @@ animation: animate 5s infinite;
 .container4 {
   width: 798px;
   height: 250px;
-  border: 0.25px solid;
+  /* border: 0.25px solid; */
   border-radius: 0px 0px 20px 20px;
   display: flex;
 }
